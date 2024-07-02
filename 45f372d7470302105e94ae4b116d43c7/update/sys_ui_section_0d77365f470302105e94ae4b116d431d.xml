@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>5eb7769f470302105e94ae4b116d43a2</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>d96c32d7474302105e94ae4b116d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>d2b7769f470302105e94ae4b116d43a3</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>196c32d7474302105e94ae4b116d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>loan_amount</element>
             <position>2</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>5ab7769f470302105e94ae4b116d43a3</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>116c32d7474302105e94ae4b116d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,55 +46,55 @@
             <element>annual_interest_rate</element>
             <position>3</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>deb7769f470302105e94ae4b116d43a3</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>196c32d7474302105e94ae4b116d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start_date</element>
-            <position>4</position>
-            <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>56b7769f470302105e94ae4b116d43a4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
-            <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>dab7769f470302105e94ae4b116d43a4</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>116c32d7474302105e94ae4b116d43fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>5</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>196c32d7474302105e94ae4b116d43fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>loan_period_in_years</element>
             <position>6</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>52b7769f470302105e94ae4b116d43a5</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>116c32d7474302105e94ae4b116d43fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>payments_per_year</element>
             <position>7</position>
             <sys_created_by>reece.poulsen</sys_created_by>
-            <sys_created_on>2024-07-02 23:19:00</sys_created_on>
-            <sys_id>d6b7769f470302105e94ae4b116d43a5</sys_id>
+            <sys_created_on>2024-07-02 23:39:25</sys_created_on>
+            <sys_id>196c32d7474302105e94ae4b116d43fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_configuration" sys_domain="global" view="Default view">0d77365f470302105e94ae4b116d431d</sys_ui_section>
             <sys_updated_by>reece.poulsen</sys_updated_by>
-            <sys_updated_on>2024-07-02 23:19:00</sys_updated_on>
+            <sys_updated_on>2024-07-02 23:39:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
