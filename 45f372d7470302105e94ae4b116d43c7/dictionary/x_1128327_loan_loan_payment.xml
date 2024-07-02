@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ef66ba5b470302105e94ae4b116d431f" label="Loan Payment" max_length="40" name="x_1128327_loan_loan_payment" type="collection">
+        <element attributes="format=none" label="Payment Number" max_length="40" name="payment_number" read_only="true" type="integer"/>
+        <element label="Cumulative Interest" max_length="20" name="cumulative_interest" read_only="true" type="currency"/>
+        <element label="Interest" max_length="20" name="interest" read_only="true" type="currency"/>
+        <element label="Payment Date" max_length="40" name="payment_date" read_only="true" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Payment Amount" max_length="20" name="payment_amount" read_only="true" type="currency"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Beginning Balance" max_length="20" name="beginning_balance" read_only="true" type="currency"/>
+        <element label="Ending Balance" max_length="20" name="ending_balance" read_only="true" type="currency"/>
+        <element label="Principal" max_length="20" name="principal" read_only="true" type="currency"/>
+        <element label="Loan Run" max_length="32" name="loan_run" read_only="true" reference="x_1128327_loan_loan_run" type="reference"/>
+        <index name="index">
+            <element name="loan_run"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

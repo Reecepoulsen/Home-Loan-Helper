@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="65f83a13474302105e94ae4b116d4319" sys_domain="global" table="x_1128327_loan_loan_payment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5f83a13474302105e94ae4b116d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1128327_loan_loan_payment" name="x_1128327_loan_loan_payment" sys_domain="global" view="Default view">65f83a13474302105e94ae4b116d4319</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1128327_loan_loan_payment" sys_domain="global" view="Default view">98c7765f470302105e94ae4b116d4380</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:24:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1f83a13474302105e94ae4b116d432a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1128327_loan_loan_payment" name="x_1128327_loan_loan_payment" sys_domain="global" view="Default view">65f83a13474302105e94ae4b116d4319</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_1128327_loan_loan_payment" sys_domain="global" view="Default view">a9f83a13474302105e94ae4b116d4318</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:24:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1128327_loan_loan_payment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:24:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65f83a13474302105e94ae4b116d4319</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1128327_loan_loan_payment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Home Loan Helper" source="x_1128327_loan">45f372d7470302105e94ae4b116d43c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Home Loan Helper">45f372d7470302105e94ae4b116d43c7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_65f83a13474302105e94ae4b116d4319</sys_update_name>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:24:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

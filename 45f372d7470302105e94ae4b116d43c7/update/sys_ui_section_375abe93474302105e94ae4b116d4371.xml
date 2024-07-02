@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Summary" section_id="375abe93474302105e94ae4b116d4371" sys_domain="global" table="x_1128327_loan_loan_run" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scheduled_payment_amount</element>
+            <position>0</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>0d0b3617474302105e94ae4b116d4325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>principal</element>
+            <position>1</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>050b3617474302105e94ae4b116d4326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>loan_total</element>
+            <position>2</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>0d0b3617474302105e94ae4b116d4326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>c50b3617474302105e94ae4b116d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scheduled_payments</element>
+            <position>4</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>cd0b3617474302105e94ae4b116d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interest</element>
+            <position>5</position>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:33:24</sys_created_on>
+            <sys_id>c50b3617474302105e94ae4b116d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Summary" display_value="Summary" name="x_1128327_loan_loan_run" sys_domain="global" view="Default view">375abe93474302105e94ae4b116d4371</sys_ui_section>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Summary</caption>
+            <header>false</header>
+            <name>x_1128327_loan_loan_run</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>reece.poulsen</sys_created_by>
+            <sys_created_on>2024-07-02 23:30:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375abe93474302105e94ae4b116d4371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1128327_loan_loan_run</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Home Loan Helper" source="x_1128327_loan">45f372d7470302105e94ae4b116d43c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Home Loan Helper">45f372d7470302105e94ae4b116d43c7</sys_scope>
+            <sys_update_name>sys_ui_section_375abe93474302105e94ae4b116d4371</sys_update_name>
+            <sys_updated_by>reece.poulsen</sys_updated_by>
+            <sys_updated_on>2024-07-02 23:30:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
