@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5655f293470302105e94ae4b116d4382" label="Loan Run" max_length="40" name="x_1128327_loan_loan_run" type="collection">
-        <element label="Principal" max_length="20" name="principal" read_only="true" type="currency"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element label="Scheduled Payment Amount" max_length="20" name="scheduled_payment_amount" read_only="true" type="currency"/>
+        <element label="Principal" max_length="20" name="principal" read_only="true" type="decimal"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Loan Total" max_length="20" name="loan_total" read_only="true" type="decimal"/>
+        <element choice="3" default="1" label="State" max_length="40" name="state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Processing" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Error" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Complete" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element label="Interest" max_length="20" name="interest" read_only="true" type="decimal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
-        <element label="Loan Total" max_length="20" name="loan_total" read_only="true" type="currency"/>
-        <element label="Interest" max_length="20" name="interest" read_only="true" type="currency"/>
+        <element label="Scheduled Payment Amount" max_length="20" name="scheduled_payment_amount" read_only="true" type="decimal"/>
         <element label="Loan Configuration" max_length="32" name="loan_configuration" read_only="true" reference="x_1128327_loan_loan_configuration" type="reference"/>
         <element label="Scheduled Payments" max_length="40" name="scheduled_payments" read_only="true" type="integer"/>
         <index name="index">

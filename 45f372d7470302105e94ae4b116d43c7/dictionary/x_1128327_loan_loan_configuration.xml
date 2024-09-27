@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="3c44721b470302105e94ae4b116d43c1" label="Loan Configuration" max_length="40" name="x_1128327_loan_loan_configuration" type="collection">
         <element label="Annual Interest Rate" mandatory="true" max_length="20" name="annual_interest_rate" type="decimal"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Start Date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
-        <element label="Loan Amount" mandatory="true" max_length="20" name="loan_amount" type="currency"/>
+        <element label="Extra Payment" max_length="20" name="extra_payment" type="decimal"/>
+        <element label="Loan Run" max_length="32" name="loan_run" reference="x_1128327_loan_loan_run" type="reference"/>
         <element label="Payments per Year" mandatory="true" max_length="40" name="payments_per_year" type="integer"/>
+        <element label="Loan Amount" mandatory="true" max_length="20" name="loan_amount" type="decimal"/>
         <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element label="Loan Period in Years" mandatory="true" max_length="40" name="loan_period_in_years" type="integer"/>
         <index name="index">
+            <element name="loan_run"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

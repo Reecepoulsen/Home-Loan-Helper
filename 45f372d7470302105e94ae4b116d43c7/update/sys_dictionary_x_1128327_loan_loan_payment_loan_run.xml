@@ -41,7 +41,7 @@
         <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="x_1128327_loan_loan_run">x_1128327_loan_loan_run</reference>
-        <reference_cascade_rule/>
+        <reference_cascade_rule>cascade</reference_cascade_rule>
         <reference_floats>false</reference_floats>
         <reference_key/>
         <reference_qual/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Home Loan Helper">45f372d7470302105e94ae4b116d43c7</sys_scope>
         <sys_update_name>sys_dictionary_x_1128327_loan_loan_payment_loan_run</sys_update_name>
         <sys_updated_by>reece.poulsen</sys_updated_by>
-        <sys_updated_on>2024-07-02 23:24:24</sys_updated_on>
+        <sys_updated_on>2024-07-03 01:00:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
